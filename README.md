@@ -5,7 +5,6 @@
   <div>
     <img align="center" alt="Rober-1" height="300" width="300" src="https://ik.imagekit.io/Roberdan42/Fotos/Desenho_Fofo.jpeg?updatedAt=1723479901706">
     <img align="center" alt="Rober-2" height="300" width="400" src="https://ik.imagekit.io/Roberdan42/Fotos/Eu_redes.jpg?updatedAt=1723479902257">
-    <img align="center" alt="Rober-3" height="300" width="300" src="https://ik.imagekit.io/Roberdan42/Fotos/Desenho_Realista.jpeg?updatedAt=1723479901602">
     <div>
       <h2> Habilidades: </h2>
       <ul>
