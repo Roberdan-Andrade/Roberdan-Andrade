@@ -1,22 +1,23 @@
 <div>
   <h1>Olá meu nome é Roberdan Andrade</h1>
   <p>Com formação em desenvolvimento fullstack JavaScript pela Generation e certificados da Alura e Senac, sou um aprendiz rapido e estou sempre buscando novas formas de me aperfeiçoar. Tenho interesse em cursar faculdade na área e valorizo muito a honestidade e oportunidades de crescimento.</p>
+</div>
 
-  <div>
-    <img align="center" alt="Rober-1" height="300" width="300" src="https://ik.imagekit.io/Roberdan42/Fotos/Desenho_Fofo.jpeg?updatedAt=1723479901706">
-    <img align="center" alt="Rober-2" height="300" width="400" src="https://ik.imagekit.io/Roberdan42/Fotos/Eu_redes.jpg?updatedAt=1723479902257">
-    <div>
-      <h2> Habilidades: </h2>
-      <ul>
-        <li>Javascript/Typescript: 7.5/10</li>
-        <li>HTML e CSS: 8/10</li>
-        <li>Git e Github: 7/10</li>
-        <li>MySQL: 7/10</li>        
-        <li>Ingles: 6.5/10</li>
-        <li>Vontade de aprender: 9/10</li>
-      </ul>
-    </div>
-  </div>
+<div>
+  <img alt="Rober-1" height="300" width="300" src="https://ik.imagekit.io/Roberdan42/Fotos/Desenho_Fofo.jpeg?updatedAt=1723479901706">
+  <img alt="Rober-2" height="300" width="400" src="https://ik.imagekit.io/Roberdan42/Fotos/Eu_redes.jpg?updatedAt=1723479902257">
+</div>
+    
+<div>
+  <h2> Habilidades: </h2>
+  <ul>
+    <li>Javascript/Typescript: 7.5/10</li>
+    <li>HTML e CSS: 8/10</li>
+    <li>Git e Github: 7/10</li>
+    <li>MySQL: 7/10</li>        
+    <li>Ingles: 6.5/10</li>
+    <li>Vontade de aprender: 9/10</li>
+  </ul>
 </div>
 
 <div style="display: inline_block"><br>
