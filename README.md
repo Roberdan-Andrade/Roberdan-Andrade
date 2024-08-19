@@ -2,11 +2,6 @@
   <h1>Olá meu nome é Roberdan Andrade</h1>
   <p>Com formação em desenvolvimento fullstack JavaScript pela Generation e certificados da Alura e Senac, sou um aprendiz rapido e estou sempre buscando novas formas de me aperfeiçoar. Tenho interesse em cursar faculdade na área e valorizo muito a honestidade e oportunidades de crescimento.</p>
 </div>
-
-<div>
-  <img alt="Rober-1" height="300" width="300" src="https://ik.imagekit.io/Roberdan42/Fotos/Desenho_Fofo.jpeg?updatedAt=1723479901706">
-  <img alt="Rober-2" height="300" width="400" src="https://ik.imagekit.io/Roberdan42/Fotos/Eu_redes.jpg?updatedAt=1723479902257">
-</div>
     
 <div>
   <h2> Habilidades: </h2>
