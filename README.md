@@ -10,7 +10,7 @@
     <li>HTML e CSS: 8/10</li>
     <li>Git e Github: 7/10</li>
     <li>MySQL: 7/10</li>        
-    <li>Ingles: 6.5/10</li>
+    <li>Ingles: 7.5/10</li>
     <li>Vontade de aprender: 9/10</li>
   </ul>
 </div>
@@ -33,6 +33,6 @@
 <div>
   <br>
   <h3>Entre em contato comigo: </h3>
-  <a href="https://www.linkedin.com/in/roberdan-andrade-177527280/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/roberdan-andrade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:Roberdan.andrade.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
