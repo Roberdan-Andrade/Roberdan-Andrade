@@ -1,6 +1,7 @@
 <div>
   <h1>Olá meu nome é Roberdan Andrade</h1>
-  <p>Com formação em desenvolvimento fullstack JavaScript pela Generation e certificados da Alura e Senac, sou um aprendiz rapido e estou sempre buscando novas formas de me aperfeiçoar. Tenho interesse em cursar faculdade na área e valorizo muito a honestidade e oportunidades de crescimento.</p>
+  <p>Tenho 22 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na FMU. Além disso, possuo formação em desenvolvimento fullstack JavaScript pela Generation, além de certificados pela Alura e pelo Senac. Sou um aprendiz rápido e estou sempre em busca de novas formas de me aprimorar.</p>
+
 </div>
     
 <div>
